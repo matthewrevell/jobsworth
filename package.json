@@ -1,0 +1,14 @@
+{
+  "name": "jobsworth",
+  "version": "0.0.0",
+  "description": "A simple jobs board",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Revell",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
